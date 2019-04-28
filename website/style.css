@@ -174,7 +174,7 @@ h2{
 	justify-content: center;
 	text-align: center;
 	display:inline-block;
-	position:relative;
+	position:absolute;
 	transform: translate(-300px, 400px);
 }
 
