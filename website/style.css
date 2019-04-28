@@ -175,7 +175,7 @@ h2{
 	text-align: center;
 	display:inline-block;
 	position:absolute;
-	
+	transform: translate(-350px, 400px);
 }
 
 .education_li{
