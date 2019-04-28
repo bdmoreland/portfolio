@@ -171,8 +171,8 @@ h2{
 	margin: 0;
 	padding: 0;
 	margin-top: 50px;
-	justify-content: center;
-	text-align: center;
+	justify-content: left;
+	text-align: left;
 	display:inline-block;
 	position:absolute;
 	transform: translate(-350px, 400px);
